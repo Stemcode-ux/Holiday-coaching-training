@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>About Us - Holiday Coaching Center</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f7ff;
+            color: #222;
+        }
+
+        header {
+            background: #17145c;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        nav {
+            background: #0d0a3d;
+            text-align: center;
+            padding: 15px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        .box {
+            background: white;
+            padding: 30px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #17145c;
+        }
+
+        h3 {
+            color: #17145c;
+        }
+
+        footer {
+            background: #17145c;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Holiday Coaching Center</h1>
+    <p>Helping Students Learn, Improve and Succeed</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="courses.html">Courses</a>
+    <a href="about.html">About Us</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+
+    <div class="box">
+        <h2>About Holiday Coaching Center</h2>
+
+        <p>
+            Holiday Coaching Center is an educational training platform
+            designed to help students continue learning and improve their
+            academic skills during school holidays.
+        </p>
+
+        <p>
+            Our goal is to provide students with quality lessons,
+            learning materials, exercises and quizzes in a simple and
+            friendly learning environment.
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>Our Mission</h2>
+
+        <p>
+            Our mission is to support students by providing accessible,
+            quality and practical education that helps them improve their
+            knowledge and prepare for academic success.
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>Our Vision</h2>
+
+        <p>
+            Our vision is to become a trusted online learning center where
+            students can learn, practice and develop useful skills anytime
+            and anywhere.
+        </p>
+    </div>
+
+    <div class="box">
+        <h2>What We Offer</h2>
+
+        <ul>
+            <li>Mathematics lessons</li>
+            <li>English lessons</li>
+            <li>Physics lessons</li>
+            <li>Chemistry lessons</li>
+            <li>Computer skills</li>
+            <li>Artificial Intelligence</li>
+            <li>Exercises and quizzes</li>
+            <li>Learning materials</li>
+        </ul>
+    </div>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 Holiday Coaching Center. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
